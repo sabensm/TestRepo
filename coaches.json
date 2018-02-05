@@ -1,24 +1,28 @@
 [
   {
     "name": "Marco Gregoire",
+    "shortName": "Marco G.",
     "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAACvAAAAJGExNmFmMjY2LWM3M2QtNDg4My04ZDYzLTYyNjZjM2UzOWUzYw.jpg",
     "hometown": "Montreal, QC",
     "bio": "My journey started in 2008 as a developer on a Scrum team. Agile immediately resonated with my values and principles, and I grew my skill sets to become a scrum master and agile coach to improve the delivery capabilities across entire organizations. I like to leverage the power of analogies and memorable quotes to simplify complex concepts, as well as add a touch of humor to demonstrate that fun and hard work do not have to be mutually exclusive."
   },
   {
     "name": "Mark Ferraro",
+    "shortName": "Mark F.",
     "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/11b/2ca/3b6447c.jpg",
     "hometown": "Scranton, PA",
     "bio": "I’m a new Cast Member, but definitely not new to being an agile coach. I have 10 years of experience in coaching individuals, teams, and enterprises with agile, lean, and other core competencies. One of my favorite approaches for creating lasting change is to cultivate communities of practice that thrive. These communities take ownership for their practices and continuously improve them to achieve greater success."
   },
   {
     "name": "Mike Sabens",
+    "shortName": "Mike S.",
     "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAe3AAAAJDY0NmVlMzIxLTUxNjktNGQ0ZS04OGI4LTU3N2M5NzAyYTRiNA.jpg",
     "hometown": "Barre, VT",
     "bio": "I recently joined our organization after spending 9 years working on backend and digital products at ESPN. I’m bringing the experience of having served as a project manager / scrum master and contributing to the ESPN app in roles as scrum master, technical analyst, API developer, and solution architect. Two of my favorite focus areas are helping teams build trust and improve their engineering and testing processes by implementing unit testing and automated QA testing to reduce cycle times and get stuff released faster."
   },
   {
     "name": "Steve Colasinski",
+    "shortName": "Steve C.",
     "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/03a/06f/2a9a4be.jpg",
     "hometown": "Orlando, FL",
     "bio": "Steve is great, but needs a bio"
