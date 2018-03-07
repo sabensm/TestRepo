@@ -4,27 +4,31 @@
     "description": "Agile is shift in mindset that needs to be adopted by everyone, at all levels, to maximize its effectiveness.",
     "image": "https://s3.amazonaws.com/directworksmedia/media/images/2015/10/05/agileteam.jpg",
     "date": "March 8, 2018",
-    "url": "https://disney.slack.com/files/U37S60L3U/F9M2NKNNT/Agile_is_Game_for_Everyone_to_Play"
+    "url": "https://disney.slack.com/files/U37S60L3U/F9M2NKNNT/Agile_is_Game_for_Everyone_to_Play",
+    "isExclusive": true
   },
   {
     "title": "Be Agile",
     "description": "Our team is commonly asked How can we DO agile? The real question, however, is, How can we BE agile?",
     "image": "http://blog.foxcitieschamber.com/wp-content/uploads/2013/01/clip_image001.jpg",
     "date": "February 22, 2018",
-    "url": "https://mailchi.mp/76005da95dcd/agile-connection-is-your-team-truly-agile"
+    "url": "https://mailchi.mp/76005da95dcd/agile-connection-is-your-team-truly-agile",
+    "isExclusive": false
   },
   {
     "title": "Simplifying User Stories",
     "description": "Whether your team has great, workable stories today, or every story is carrying over every sprint, these tips for simplifying stories are great and proven.",
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/31633e92-12b6-4ebd-91c9-b3b0116ed8de.jpg",
     "date": "January 18, 2018",
-    "url": "https://mailchi.mp/6c8d55a8f403/agile-connection-simplifying-user-stories"
+    "url": "https://mailchi.mp/6c8d55a8f403/agile-connection-simplifying-user-stories",
+    "isExclusive": false
   },
   {
     "title": "Introducing the Agile Connection",
     "description": "Welcome to the Agile Connection, a monthly newsletter to keep you up to date on agile best practices. Written by our team of Disney Agile Coaches, Marco, Mark and Mike.",
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/12450e47-7f6f-4e17-b9cd-7ef6d0999dd9.png",
     "date": "December 18, 2018",
-    "url": "https://mailchi.mp/87fdc791ffcc/introducing-the-agile-connection-our-monthly-agile-update"
+    "url": "https://mailchi.mp/87fdc791ffcc/introducing-the-agile-connection-our-monthly-agile-update",
+    "isExclusive": false
   }
 ]
