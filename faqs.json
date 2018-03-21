@@ -1,0 +1,52 @@
+[
+  {
+    "questionTitleText": "How do I get a coach?",
+    "questionAnswerText": "There are a number of different ways you can engage with the Disney Agile Coaches. For one time questions or small engagements (a few hours) The most direct is to reach out to us on our Slack Channel (#wdpr_agile), or send us an email. If you believe you and your project need our assistance for more than a few hours, please fill out the request form",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "When should I engage a coach?",
+    "questionAnswerText": "Anytime you have a question about agility. We're here to help and want to see you be successful on your agile journey. Whether you're just starting out or have been doing it for years, we welcome all questions and engagements and will tailor our advice and support to your specific situation.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "How do I know I am doing agile right?",
+    "questionAnswerText": "First, let's dispel a common misconception. You can't do agile, therefore it's impossible to 'do agile right'. Many teams will play the game of agile (do agile) by having stand ups, playing planning poker, holding demos and retros, etc without understanding the reasons behind them and the value each one should be providing to the team. If you find yourself playing the game of agile, it doesn't matter how good you get at playing the game, you're still going to struggle to realize the value that agility promises. You're being agile when you can answer yes to the following statements: \n \u2022Individuals and interactions over processes and tools \n \u2022Working software over comprehensive documentation \n \u2022Customer collaboration over contract negotiation \n \u2022Responding to change over following a plan",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "What is the ideal size of an agile team, and who should be apart of it?",
+    "questionAnswerText": "5-8 Team Members, plus a Scrum Master and Product Owner. The value delivery team (5-8) should consist of individuals with the necessary skills to build, test, and ship a product. This typically means BA's, Developers, QA, UI/UX, Solution Architects.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "What’s the difference between a scrum and a daily stand up?",
+    "questionAnswerText": "Scrum is a process framework, likely the most popular of the different practices one can use to be agile. A daily stand up is one of the key ceremonies within the Scrum framework. Many teams unfortunately use the term daily scrum when what they really mean is the daily standup (or daily meeting).",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "How are stories different than requirements?",
+    "questionAnswerText": "Stories are a way to communicate the needs of a user ideally told to the team by an individual who has direct, hands on experience, in the role. It is up to the whole agile delivery team to collaborate to determine how to best meet that persons needs. A requirement is more prescriptive and typically denotes the exact functionality of a system. The difference thus, is stories are told by and relate to real people whereas requirements are typically written by BA's/SMEs and relate to how a system should function.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "How do we story map a system interface?",
+    "questionAnswerText": "You don't. Systems are not people, and thus, don't have needs or objectives they're trying to fulfill. All systems (at least until a super intelligent AI takes over) were created by people to help them carry out some aspect of their job. We encourage teams to identify those users and tell those stories vs identifying that a system needs to do certain things.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "What about “hardening sprints?”",
+    "questionAnswerText": "Teams should strive to build quality in during the actual building of the feature the first time. If you find yourselves needing a hardening sprint, odds are the team is under a time crunch and sacrificing quality in order to meet a deadline likely imposed by outside forces and not the team itself.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "What about SAFe?",
+    "questionAnswerText": "SAFe is a hot topic amongst the enterprise these days, and for good reason; it promises an effective way to scale agile beyond individual teams up through programs, portfolios and eventually the entire organization. It is important to realize however that SAFe is built upon the same basic principles as agile. If you have project teams struggling with agility, SAFe is not a magic pill that will suddenly help those teams. On the other hand, if you oversee a number of effective agile teams but are struggling to unite at the program or even portfolio level, SAFe may be worth looking into.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  },
+  {
+    "questionTitleText": "Should we do a Scrum of Scrums?",
+    "questionAnswerText": "f you have multiple agile teams working on the same, or very similar work that would benefit from a daily touchpoint, then yes! Each team will designate an ambassador to attend the Scrum of Scrums and speak about the accomplishments, plans, and impediments of that team. If the only value add to this meeting is having it serve as a status update for program level managers/directors/etc who do not attend team stand ups then a Scrum of Scrums is not something we'd recommend as a status update can be provided in other ways without. Again, the value of a daily stand up is for conversations between team members to help them advance towards the sprint goal. The same holds true for a Scrum of Scrums.",
+    "image": "https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519660-164_QuestionMark-64.png"
+  }
+]
