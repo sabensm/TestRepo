@@ -1,11 +1,19 @@
 [
   {
+    "title": "Does Less Feedback Mean We're Less Agile?",
+    "description": "Teams operate more efficiently when they receive consistent and constructive feedback faster",
+    "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/37f971db-d6b4-4e1b-a92d-09185ed9fb3f.png",
+    "date": "May, 14 2018",
+    "url": "https://mailchi.mp/1ff3ae55e15c/agile-connection-does-less-feedback-mean-were-less-agile",
+    "isExclusive": false
+  },
+  {
     "title": "Delivering Value Using Personas",
     "description": "A common challenge for teams is identifying and delivering the value proposition in stories. Learn how adopting personas can help.",
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/38111925-c959-49e6-8e06-44beea741345.png",
     "date": "April 9, 2018",
     "url": "https://mailchi.mp/4d4ee6707c44/agile-connection-delivering-value-using-personas",
-    "isExclusive": true
+    "isExclusive": false
   },
   {
     "title": "Be Agile",
