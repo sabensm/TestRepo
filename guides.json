@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Run A Daily Standup",
+    "description": "A guide to help you get up and running with your team's daily standups.",
+    "image": "https://media.licdn.com/dms/image/C5103AQEopjZCbz7aQQ/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=I8yOd0ss9VVca66-TsRMhb2ORfWJYFXNdBm2IGXnQkE",
+    "contentURL": "https://raw.github.com/sabensm/TestRepo/dailystandup.json"
+  },
+  {
+    "title": "Retrospectives: Good Practices",
+    "description": "Retrospectives feeling stale? Here's some tips to get more value out of the ceremony.",
+    "image": "https://media.licdn.com/dms/image/C5103AQEopjZCbz7aQQ/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=I8yOd0ss9VVca66-TsRMhb2ORfWJYFXNdBm2IGXnQkE",
+    "contentURL": "https://raw.github.com/sabensm/TestRepo/retrospectives.json"
+  }
+]
