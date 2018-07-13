@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Limit to 15 Minutes",
+    "description": "This is not a status update. Timebox your team to sync daily in 15 minute increments. The longer the meeting, the more opportunity there is for conversation to go down rabbit holes and transition from useful, to useless banter.",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  },
+  {
+    "title": "Start On Time",
+    "description": "With only 15 minutes to sync, it's critical to start on time. Don't wait a few minutes for stragglers to join - get in the habit of starting on time. People who are habitually late will get sick of always joining a meeting in progress and adjust their behavior accordingly.",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  },
+  {
+    "title": "What Did you Do Yesterday?",
+    "description": "The first of the three questions designed to get people talking. Again, this is not a status update meeting, so the answer to this question should be more than 'I worked on ticket XYZ' - Ask probing questions, what exactly did you do with ticket XYZ? Is it complete? Do you need help from other team members? etc.",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  },
+  {
+    "title": "What Are you Going to Do Today?",
+    "description": "The second of three questions. Similar to the what did you do yesterday, this asks you to engage in sharing your plans for the day. What will you be trying to finish up, or what are you planning on starting. Why is that important and who on the team may benefit from your intended actions today?",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  },
+  {
+    "title": "Any Impedimnents to Progress?",
+    "description": "Perhaps the most important conversation takes place around impediments (aka Blockers). Raising these to the team is crucial as another team member may be able to provide immediate help, or the Scrum Master can take it and after stand up work with you and other parties to resolve the issue and get you back on track.",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  },
+  {
+    "title": "Post Standup",
+    "description": "If done right, lots of great conversation between team members will have taken place. In some cases, those converastions may need to be cut short due to time. Encourage the team to reserve time after the standup to dive into these items. Getting immediate resolution on topics is always better than having to schedule yet another meeting.",
+    "imageURL": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg"
+  }
+]
