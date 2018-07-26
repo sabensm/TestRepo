@@ -5,7 +5,8 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/4d23a258-5c8b-4e65-bb19-d1568790be6d.png",
     "date": "July, 19 2018",
     "url": "https://mailchi.mp/12e342fd6230/agile-connection-less-is-best",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   },
   {
     "title": "Are you SAFe in Agile?",
@@ -13,7 +14,17 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/e1b716a8-aa42-42b9-8adb-4fa4ce161d6b.png",
     "date": "June, 18 2018",
     "url": "https://mailchi.mp/9ed2c63b43cb/agile-connection-are-you-safe-in-agile",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
+  },
+  {
+    "title": "Six Tips for Saying No To Stakeholders",
+    "description": "Learning to say no to stakeholders is a skill every Product Owner should learn.",
+    "image": "https://www.mountaingoatsoftware.com/uploads/blog/2018-06-19-six-guidelines-for-saying-no-to-a-stakeholder-quote.png",
+    "date": "June, 16 2018",
+    "url": "https://www.mountaingoatsoftware.com/blog/six-guidelines-for-saying-no-to-a-stakeholder",
+    "isExclusive": false,
+    "isAgileConnection": false
   },
   {
     "title": "Does Less Feedback Mean We're Less Agile?",
@@ -21,7 +32,8 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/37f971db-d6b4-4e1b-a92d-09185ed9fb3f.png",
     "date": "May, 14 2018",
     "url": "https://mailchi.mp/1ff3ae55e15c/agile-connection-does-less-feedback-mean-were-less-agile",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   },
   {
     "title": "Delivering Value Using Personas",
@@ -29,7 +41,8 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/38111925-c959-49e6-8e06-44beea741345.png",
     "date": "April 9, 2018",
     "url": "https://mailchi.mp/4d4ee6707c44/agile-connection-delivering-value-using-personas",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   },
   {
     "title": "Don't just DO agile - BE agile!",
@@ -37,7 +50,8 @@
     "image": "https://image.slidesharecdn.com/130224-closetheloop-131027112046-phpapp01/95/close-the-loop-simplifying-a3-thinking-for-team-retrospectives-3-638.jpg",
     "date": "February 22, 2018",
     "url": "https://mailchi.mp/76005da95dcd/agile-connection-is-your-team-truly-agile",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   },
   {
     "title": "Simplifying User Stories",
@@ -45,7 +59,8 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/31633e92-12b6-4ebd-91c9-b3b0116ed8de.jpg",
     "date": "January 18, 2018",
     "url": "https://mailchi.mp/6c8d55a8f403/agile-connection-simplifying-user-stories",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   },
   {
     "title": "Introducing the Agile Connection",
@@ -53,6 +68,7 @@
     "image": "https://gallery.mailchimp.com/982ff859469e5161ac83dd2b4/images/12450e47-7f6f-4e17-b9cd-7ef6d0999dd9.png",
     "date": "December 18, 2018",
     "url": "https://mailchi.mp/87fdc791ffcc/introducing-the-agile-connection-our-monthly-agile-update",
-    "isExclusive": false
+    "isExclusive": false,
+    "isAgileConnection": true
   }
 ]
