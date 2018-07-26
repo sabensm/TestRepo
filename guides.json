@@ -3,12 +3,12 @@
     "title": "Run A Daily Standup",
     "description": "A guide to help you get up and running with your team's daily standups.",
     "image": "https://www.thoughtworks.com/mingle/docs/resources/images/explore_mingle_daily_standup.jpg",
-    "contentURL": "https://raw.github.com/sabensm/TestRepo/dailystandup.json"
+    "contentURL": "https://raw.githubusercontent.com/sabensm/TestRepo/master/dailystandup.json"
   },
   {
     "title": "Retrospectives: Good Practices",
     "description": "Retrospectives feeling stale? Here's some tips to get more value out of the ceremony.",
     "image": "http://4.bp.blogspot.com/-_YcmTnoiWR4/UeSBNUClBFI/AAAAAAAAAK4/urclDPS-SEI/s1600/What+happens+in+the+Retro.png",
-    "contentURL": "https://raw.github.com/sabensm/TestRepo/retrospectives.json"
+    "contentURL": "https://raw.githubusercontent.com/sabensm/TestRepo/master/retrospectives.json"
   }
 ]
