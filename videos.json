@@ -5,8 +5,18 @@
     "url": "https://www.youtube.com/watch?v=FJezcyKno5k"
   },
   {
+    "title": "Kanban 101",
+    "image": "https://i.ytimg.com/vi/R8dYLbJiTUE/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=R8dYLbJiTUE"
+  }
+  {
     "title": "Agile Daily Stand-up - 5 Basic Rules",
     "image": "https://i.ytimg.com/vi/Hv8xtMgGGRg/maxresdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Hv8xtMgGGRg"
+  },
+  {
+    "title": "What is Agile Leadership",
+    "image": "https://i.ytimg.com/vi/X3-nhw-wPcA/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=X3-nhw-wPcA"
   }
 ]
