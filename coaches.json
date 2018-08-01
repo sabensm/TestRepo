@@ -2,7 +2,7 @@
   {
     "name": "Marco Gregoire",
     "shortName": "Marco G.",
-    "image": "https://media.licdn.com/dms/image/C5103AQEopjZCbz7aQQ/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=I8yOd0ss9VVca66-TsRMhb2ORfWJYFXNdBm2IGXnQkE",
+    "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/436/013/thumbnail_large/20ad16022415f115c219ec5cd897f3508c03e265/marco-business-casual-2015-3000x3000.jpg",
     "hometown": "Montreal, QC",
     "officeLocation": "Kirkman Point / Team Disney",
     "bio": "My journey started in 2008 as a developer on a Scrum team. Agile immediately resonated with my values and principles, and I grew my skill sets to become a scrum master and agile coach to improve the delivery capabilities across entire organizations. I like to leverage the power of analogies and memorable quotes to simplify complex concepts, as well as add a touch of humor to demonstrate that fun and hard work do not have to be mutually exclusive."
@@ -10,7 +10,7 @@
   {
     "name": "Mark Ferraro",
     "shortName": "Mark F.",
-    "image": "https://media.licdn.com/dms/image/C4E03AQGTV1Ec2XVcaA/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=UMOTCqzLxYFptbFvsel0HIG7qaMtNHkEG2UxARBIvRE",
+    "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/594/384/thumbnail_large/a1722c66b7d6264ca339e122e1347af3661c65ab/profile.jpg",
     "hometown": "Scranton, PA",
     "officeLocation": "Celebration / Team Disney",
     "bio": "I’m a new Cast Member, but definitely not new to being an agile coach. I have 10 years of experience in coaching individuals, teams, and enterprises with agile, lean, and other core competencies. One of my favorite approaches for creating lasting change is to cultivate communities of practice that thrive. These communities take ownership for their practices and continuously improve them to achieve greater success."
@@ -18,7 +18,7 @@
   {
     "name": "Mike Sabens",
     "shortName": "Mike S.",
-    "image": "https://media.licdn.com/dms/image/C5103AQHbevzYRYTRuA/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=dQ9ad9EWQQ6FVdNrdkxqeT4iC0NF0kb4c3qhs-yOM8w",
+    "image": "https://rostr-production.s3.amazonaws.com/images/default_avatar/thumbnail_large/default_avatar.jpg",
     "hometown": "Barre, VT",
     "officeLocation": "Celebration / Team Disney",
     "bio": "I recently joined our organization after spending 9 years working on backend and digital products at ESPN. I’m bringing the experience of having served as a project manager / scrum master and contributing to the ESPN app in roles as scrum master, technical analyst, API developer, and solution architect. Two of my favorite focus areas are helping teams build trust and improve their engineering and testing processes by implementing unit testing and automated QA testing to reduce cycle times and get stuff released faster."
@@ -26,7 +26,7 @@
   {
     "name": "Steve Colasinski",
     "shortName": "Steve C.",
-    "image": "https://media.licdn.com/dms/image/C4E03AQE3pZTUX6K6BA/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=CajLxRr5V7T3RnAjuohfB9gVbSuORfSM8TMIU2cU3XU",
+    "image": "https://rostr-production.s3.amazonaws.com/images/default_avatar/thumbnail_large/default_avatar.jpg",
     "hometown": "Orlando, FL",
     "officeLocation": "Kirkman Point / Team Disney",
     "bio": "Steve is great, but needs a bio"
@@ -34,7 +34,7 @@
   {
     "name": "Amy Ma",
     "shortName": "Amy M.",
-    "image": "https://image.shutterstock.com/image-vector/female-profile-picture-silhouette-avatar-260nw-147778559.jpg",
+    "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/640/724/thumbnail_large/37b60cae2d98257b7a04c8d0a932b8567453d873/c6f5b4d8-70dc-4feb-8041-e7965f2aa117.jpeg",
     "hometown": "???, NJ",
     "officeLocation": "Team Disney",
     "bio": "Amy is great, but needs a bio"
