@@ -1,0 +1,37 @@
+[
+  {
+    "title": "The Scrum Guide",
+    "description": "Ken Schwaber and Jeff Sutherland developed Scrum; the Scrum Guide is written and provided by them. Together, they stand behind the Scrum Guide.",
+    "image": "http://icons.iconarchive.com/icons/iconsmind/outline/256/Newspaper-icon.png",
+    "actionType": "webview",
+    "actionData": "https://www.scrumguides.org/scrum-guide.html"
+  },
+  {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to quesitons the coaching team at DPECP hear often.",
+    "image": "https://c7.uihere.com/files/390/934/539/computer-icons-question-icon-thumb.jpg",
+    "actionType": "segue",
+    "actionData": "FAQViewController"
+  },
+  {
+    "title": "Slack",
+    "description": "Come hang out with the coaches and others who share tips and engage in great converstaions daily",
+    "image": "https://www.iosicongallery.com/icons/slack-2014-10-07/512.png",
+    "actionType": "deeplink",
+    "actionData": "slack://channel?team=T025VDV0V&id=C68GZTSS1"
+  },
+  {
+    "title": "Request Consultation",
+    "description": "Need more help than is in the app? Shoot us an email and let us know how we can help you",
+    "image": "https://static.thenounproject.com/png/970400-200.png",
+    "actionType": "seque",
+    "actionData": "CoachingRequestViewController"
+  },
+  {
+    "title": "Mountain Goat Software Blog",
+    "description": "Read some great content from one of the original creators of Scrum, Mike Cohn",
+    "image": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397190682/7cdee06fe9f18ea6f65b45d11fb4c737.jpg",
+    "actionType": "webview",
+    "actionData": "https://www.mountaingoatsoftware.com/blog"
+  }
+]
