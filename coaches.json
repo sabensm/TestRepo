@@ -4,7 +4,7 @@
     "shortName": "Marco G.",
     "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/436/013/thumbnail_large/20ad16022415f115c219ec5cd897f3508c03e265/marco-business-casual-2015-3000x3000.jpg",
     "hometown": "Montreal, QC",
-    "officeLocation": "Kirkman Point / Team Disney",
+    "officeLocation": "Kirkman Point 2",
     "bio": "My journey started in 2008 as a developer on a Scrum team. Agile immediately resonated with my values and principles, and I grew my skill sets to become a scrum master and agile coach to improve the delivery capabilities across entire organizations. I like to leverage the power of analogies and memorable quotes to simplify complex concepts, as well as add a touch of humor to demonstrate that fun and hard work do not have to be mutually exclusive."
   },
   {
@@ -12,7 +12,7 @@
     "shortName": "Mark F.",
     "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/594/384/thumbnail_large/a1722c66b7d6264ca339e122e1347af3661c65ab/profile.jpg",
     "hometown": "Scranton, PA",
-    "officeLocation": "Celebration / Team Disney",
+    "officeLocation": "Celebration / Kirkman Point 2",
     "bio": "I’m a new Cast Member, but definitely not new to being an agile coach. I have 10 years of experience in coaching individuals, teams, and enterprises with agile, lean, and other core competencies. One of my favorite approaches for creating lasting change is to cultivate communities of practice that thrive. These communities take ownership for their practices and continuously improve them to achieve greater success."
   },
   {
@@ -20,15 +20,15 @@
     "shortName": "Mike S.",
     "image": "https://rostr-production.s3.amazonaws.com/images/default_avatar/thumbnail_large/default_avatar.jpg",
     "hometown": "Barre, VT",
-    "officeLocation": "Celebration / Team Disney",
+    "officeLocation": "Kirkman Point 2",
     "bio": "I recently joined our organization after spending 9 years working on backend and digital products at ESPN. I’m bringing the experience of having served as a project manager / scrum master and contributing to the ESPN app in roles as scrum master, technical analyst, API developer, and solution architect. Two of my favorite focus areas are helping teams build trust and improve their engineering and testing processes by implementing unit testing and automated QA testing to reduce cycle times and get stuff released faster."
   },
   {
     "name": "Amy Ma",
     "shortName": "Amy M.",
     "image": "https://s3.us-east-2.amazonaws.com/rostr-production/avatars/images/000/640/724/thumbnail_large/37b60cae2d98257b7a04c8d0a932b8567453d873/c6f5b4d8-70dc-4feb-8041-e7965f2aa117.jpeg",
-    "hometown": "???, NJ",
-    "officeLocation": "Team Disney",
+    "hometown": "Hoboken, NJ",
+    "officeLocation": "TKirkman Point 2",
     "bio": "Amy is great, but needs a bio"
     }
 ]
