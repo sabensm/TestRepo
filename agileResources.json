@@ -17,7 +17,7 @@
     "title": "Request Consultation",
     "description": "Need more help than is in the app? Shoot us an email and let us know how we can help you",
     "image": "https://static.thenounproject.com/png/970400-200.png",
-    "actionType": "seque",
+    "actionType": "segue",
     "actionData": "CoachingRequestViewController"
   },
   {
