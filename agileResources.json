@@ -7,13 +7,6 @@
     "actionData": "https://www.scrumguides.org/scrum-guide.html"
   },
   {
-    "title": "Frequently Asked Questions",
-    "description": "Answers to quesitons the coaching team at DPECP hear often.",
-    "image": "https://static.thenounproject.com/png/569373-200.png",
-    "actionType": "segue",
-    "actionData": "FAQViewController"
-  },
-  {
     "title": "Slack",
     "description": "Come hang out with the coaches and others who share tips and engage in great converstaions daily",
     "image": "https://static.thenounproject.com/png/1375855-200.png",
