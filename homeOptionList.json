@@ -1,0 +1,14 @@
+[
+  {
+    "displayName": "Historical Launches",
+    "displayIcon": "Rocket",
+    "apiUrl": "https://api.spacexdata.com/v3/launches/past?order=desc",
+    "destinationView": "HistoricalLaunchListView"
+  },
+  {
+    "displayName": "Upcoming Launches",
+    "displayIcon": "Rocket",
+    "apiUrl": "https://api.spacexdata.com/v3/launches/upcoming",
+    "destinationView": "UpcomingLaunchListView"
+  }
+]
